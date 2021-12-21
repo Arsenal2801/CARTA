@@ -1,3 +1,10 @@
+body {
+    width: 100%;
+    height: auto;
+    background-image: url('https://www.tuexperto.com/wp-content/uploads/2020/12/zoom-navidad-01.jpg');
+    background-size: auto auto;
+  }
+
 .snowfall-flakes{
 	-moz-border-radius:5px;
 	-webkit-border-radius:5px;
